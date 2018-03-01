@@ -1,0 +1,11 @@
+D:\C#\Store\Store.Api\bin\Debug\netcoreapp2.0\Store.Api.deps.json
+D:\C#\Store\Store.Api\bin\Debug\netcoreapp2.0\Store.Api.runtimeconfig.json
+D:\C#\Store\Store.Api\bin\Debug\netcoreapp2.0\Store.Api.runtimeconfig.dev.json
+D:\C#\Store\Store.Api\bin\Debug\netcoreapp2.0\Store.Api.dll
+D:\C#\Store\Store.Api\bin\Debug\netcoreapp2.0\Store.Api.pdb
+D:\C#\Store\Store.Api\obj\Debug\netcoreapp2.0\Store.Api.csprojResolveAssemblyReference.cache
+D:\C#\Store\Store.Api\obj\Debug\netcoreapp2.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\C#\Store\Store.Api\obj\Debug\netcoreapp2.0\Store.Api.AssemblyInfoInputs.cache
+D:\C#\Store\Store.Api\obj\Debug\netcoreapp2.0\Store.Api.AssemblyInfo.cs
+D:\C#\Store\Store.Api\obj\Debug\netcoreapp2.0\Store.Api.dll
+D:\C#\Store\Store.Api\obj\Debug\netcoreapp2.0\Store.Api.pdb
