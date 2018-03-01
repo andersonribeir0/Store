@@ -5,11 +5,16 @@ namespace Store.Domain.StoreContext.Commands.CustomerCommands.Outputs
 {
     public class CreateCustomerCommandResult : ICommandResult
     {
-        public Guid iIdd { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Document { get; set; }
+        public CreateCustomerCommandResult(Guid id, string name, string email)
+        {
+            Id = id;
+            Name = name;
+            Email = email;
+        }
+        public CreateCustomerCommandResult() { }
+
+        public Guid Id { get; set; }
+        public string Name { get; set; }
         public string Email { get; set; }
-        public string Phrone { get; set; }
     }
 }
