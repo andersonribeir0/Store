@@ -1,9 +1,9 @@
-﻿using FluentValidator;
-using Store.Domain.StoreContext.Enums;
+﻿using Store.Domain.StoreContext.Enums;
+using Store.Shared;
 
 namespace Store.Domain.StoreContext.Entities
 {
-    public class Address : Notifiable
+    public class Address : Entity
     {
         public Address(string street, string number, string complement, string district, string state, string country, string zipCode, string city, EAddressType type)
         {

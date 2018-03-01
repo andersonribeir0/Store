@@ -7,3 +7,4 @@ D:\C#\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.AssemblyInfoInput
 D:\C#\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.AssemblyInfo.cs
 D:\C#\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.dll
 D:\C#\Store\Store.Shared\obj\Debug\netstandard2.0\Store.Shared.pdb
+D:\C#\Store\Store.Shared\bin\Debug\netstandard2.0\FluentValidator.dll

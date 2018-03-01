@@ -1,8 +1,8 @@
-using FluentValidator;
+using Store.Shared;
 
 namespace Store.Domain.StoreContext.Entities
 {
-    public class Product : Notifiable
+    public class Product : Entity
     {
         public Product(string title, decimal price, string description, string image, decimal quantity)
         {
