@@ -1,9 +1,0 @@
-D:\C#\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Infra.deps.json
-D:\C#\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Infra.dll
-D:\C#\Store\Store.Infra\bin\Debug\netstandard2.0\Store.Infra.pdb
-D:\C#\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.csprojResolveAssemblyReference.cache
-D:\C#\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.csproj.CoreCompileInputs.cache
-D:\C#\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.AssemblyInfoInputs.cache
-D:\C#\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.AssemblyInfo.cs
-D:\C#\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.dll
-D:\C#\Store\Store.Infra\obj\Debug\netstandard2.0\Store.Infra.pdb

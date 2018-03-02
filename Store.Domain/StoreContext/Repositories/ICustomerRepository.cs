@@ -1,4 +1,6 @@
-﻿using Store.Domain.StoreContext.Entities;
+﻿using System.Threading.Tasks;
+using Store.Domain.StoreContext.Entities;
+using Store.Domain.StoreContext.Queries;
 
 namespace Store.Domain.StoreContext.Repositories
 {
@@ -7,5 +9,7 @@ namespace Store.Domain.StoreContext.Repositories
         bool CheckDocument(string document);
         bool CheckEmail(string email);
         void Save(Customer customer);
+        CustomerOrdersCountResult GetCustomerOrdersResult(string document);
+        GetByIdQueryResult GetById(string id);
     }
 }

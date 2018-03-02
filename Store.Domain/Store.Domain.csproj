@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="StoreContext\Handlers\StoreProcedures\**" />
+    <EmbeddedResource Remove="StoreContext\Handlers\StoreProcedures\**" />
+    <None Remove="StoreContext\Handlers\StoreProcedures\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FluentValidator" Version="2.0.4" />
   </ItemGroup>
 

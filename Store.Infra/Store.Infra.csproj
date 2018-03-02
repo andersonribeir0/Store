@@ -4,4 +4,19 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Store.Domain\Store.Domain.csproj" />
+    <ProjectReference Include="..\Store.Shared\Store.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FluentValidator">
+      <HintPath>C:\Users\ander\.nuget\packages\fluentvalidator\2.0.4\lib\netstandard1.3\FluentValidator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
